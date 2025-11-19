@@ -97,8 +97,8 @@ Since all data is stored locally on your device:
 
 If you have questions about this Privacy Policy, please contact us:
 
-- Email: [YOUR_EMAIL_HERE]
-- GitHub: https://github.com/alamashir/expense-journal-app/issues
+- Email: support@dailyspend.co
+- GitHub: https://github.com/alamashir/dailyspend-app/issues
 
 ## Legal Compliance
 
