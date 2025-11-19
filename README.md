@@ -53,10 +53,15 @@ Your data, your rules. Export everything to CSV or JSON whenever you want. No lo
 Daily Spend is built for people who value financial privacy:
 
 ✅ **All expense data stored locally** on your device only
+
 ✅ **No cloud sync** — your data never touches our servers
+
 ✅ **No user accounts** — nothing to sign up for
+
 ✅ **No usage tracking or analytics** — we don't know who you are
+
 ✅ **No ads, no subscriptions** — pay once, use forever
+
 ✅ **Transparent AI usage** — only chat text sent to AI for parsing (optional feature)
 
 **What we collect:** Nothing. Your expenses, budgets, and personal data stay on your device.
