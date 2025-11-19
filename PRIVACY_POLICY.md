@@ -21,8 +21,6 @@ Daily Spend is a **local-first application**. All your financial data is stored 
 
 The App requests access to the following device features:
 
-- **Camera**: To capture photos of receipts for your expense records
-- **Photo Library**: To select existing receipt photos from your device
 - **Microphone**: To enable voice input for adding expenses
 - **Speech Recognition**: To convert your voice into expense entries
 
@@ -141,8 +139,6 @@ By using Daily Spend, you consent to this Privacy Policy and agree to its terms.
 - No personal financial data is shared with the AI service
 
 **Permissions Requested:**
-- Camera: "To capture receipt photos"
-- Photo Library: "To save and select receipt photos"
 - Microphone: "To enable voice input for adding expenses"
 - Speech Recognition: "To convert voice to text for expense entries"
 
